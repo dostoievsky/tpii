@@ -70,7 +70,7 @@ as funções básicas para o processamento.
 é o objeto principal do modelo de programação do Spark, 
 onde os dados serão executados e processados. 
 
-    ARQUITETURA
+    **ARQUITETURA**
 
     Driver Program: aplicação principal que gerencia a 
 criação e quem executará o processamento
@@ -162,7 +162,7 @@ que são enviadas pelo Driver Program.
     Netflix usa para lidar com bilhões de eventos 
     por dia de várias fontes.
 
-<img src="./assets/figura1.png" />
+    <img src="./assets/figura1.png" />
 
 <hr />
 
@@ -276,7 +276,7 @@ que são enviadas pelo Driver Program.
     por mensagens.
 
 
-<img src="./assets/figura2.png" />
+    <img src="./assets/figura2.png" />
 
 <hr />
 
